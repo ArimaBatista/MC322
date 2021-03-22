@@ -8,4 +8,5 @@
 # Curso
   * ENG. Eletrica
   
-# LAB 01
+## LAB 01
+ * [Emprestimo] <https://github.com/ArimaBatista/MC322/tree/main/Lab01>
