@@ -3,9 +3,9 @@
 
 
 # Aluno
-  *Arimã da Silva Alves Batista
+  * Arimã da Silva Alves Batista
 
 # Curso
-  *ENG. Eletrica
+  * ENG. Eletrica
   
 #LAB 01
