@@ -9,4 +9,4 @@
   * ENG. Eletrica
   
 ## LAB 01
- * [Emprestimo](https://github.com/ArimaBatista/MC322/tree/main/Lab01)
+ * [Emprestimo](https://github.com/ArimaBatista/MC322/blob/main/Lab01/emprestimo01-ra194347.ipynb)
