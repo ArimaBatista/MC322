@@ -10,3 +10,6 @@
   
 ## LAB 01
  * [Emprestimo](https://github.com/ArimaBatista/MC322/blob/main/Lab01/emprestimo01-ra194347.ipynb)
+
+## LAB 02
+ * [Laboratório em Estruturas de Programação Java](https://github.com/ArimaBatista/MC322/blob/main/Lab%2002/lab02-ra194347-java-estruturas.ipynb)
