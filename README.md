@@ -13,3 +13,6 @@
 
 ## LAB 02
  * [Laboratório em Estruturas de Programação Java](https://github.com/ArimaBatista/MC322/blob/main/Lab%2002/lab02-ra194347-java-estruturas.ipynb)
+
+## LAB 03
+ * [Lombriga no aquario](https://github.com/ArimaBatista/MC322/tree/main/LAB%2003)
