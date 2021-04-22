@@ -1,0 +1,2 @@
+module Resta1 {
+}
