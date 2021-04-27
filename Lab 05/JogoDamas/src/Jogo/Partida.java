@@ -12,10 +12,10 @@ public class Partida
 		String commands[] = csv.requestCommands();
 		jogo1.calldama(jogo001);
 		jogo1.callpeca(jogo01);
-		jogo1.mostra();
+		//jogo1.mostra();
 		jogo01.conecta(jogo1);
 		jogo001.liga(jogo1);
-		jogo1.mostra();
+		//jogo1.mostra();
 		int v;
 		v = commands.length;
 		for (int i = 0; i < v; i++)
